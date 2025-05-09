@@ -1,0 +1,164 @@
+rk,xg,comp,date,gca1,gca2,psxg,notes,round,score,start,type1,type2,assist,minute,scorer,distance,opponent,body_part
+1,0.87,La Liga,2024-08-17,Lamine Yamal,,0.99,,Matchweek 1,0-1,Y,Shot,,Lamine Yamal,45,Robert Lewandowski,3,Valencia,Right Foot
+2,0.79,La Liga,2024-08-17,Raphinha,Ferrán Torres,0.98,,Matchweek 1,1-1,Y,Fouled,Pass (Live),,49,Robert Lewandowski,13,Valencia,Right Foot
+3,0.02,La Liga,2024-08-24,Alejandro Balde,Iñigo Martínez,0.43,Deflected,Matchweek 2,0-0,Y,Fouled,Pass (Live),,24,Lamine Yamal,28,Athletic Club,Left Foot
+4,0.25,La Liga,2024-08-24,Raphinha,Alejandro Balde,0.94,,Matchweek 2,1-1,Y,Pass (Live),Pass (Live),,75,Robert Lewandowski,13,Athletic Club,Left Foot
+5,0.29,La Liga,2024-08-27,Raphinha,Pedri,0.69,,Matchweek 3,0-1,Y,Pass (Live),Pass (Live),Raphinha,60,Pedri,12,Rayo Vallecano,Left Foot
+6,0.12,La Liga,2024-08-27,Lamine Yamal,Lamine Yamal,0.86,,Matchweek 3,1-1,N,Pass (Live),Take-On,Lamine Yamal,82,Dani Olmo,12,Rayo Vallecano,Left Foot
+7,0.4,La Liga,2024-08-31,Pau Cubarsí,Pedri,0.89,,Matchweek 4,0-0,Y,Pass (Live),Pass (Live),Pau Cubarsí,20,Raphinha,10,Valladolid,Left Foot
+8,0.41,La Liga,2024-08-31,Lamine Yamal,Pau Cubarsí,0.11,,Matchweek 4,1-0,Y,Pass (Live),Pass (Live),Lamine Yamal,24,Robert Lewandowski,15,Valladolid,Left Foot
+9,0.09,La Liga,2024-08-31,Pau Cubarsí,,0.79,,Matchweek 4,2-0,Y,Shot,,,45,Jules Koundé,11,Valladolid,Right Foot
+10,0.56,La Liga,2024-08-31,,,0.65,,Matchweek 4,3-0,Y,,,Robert Lewandowski,64,Raphinha,4,Valladolid,Left Foot
+11,0.64,La Liga,2024-08-31,Lamine Yamal,,0.56,,Matchweek 4,4-0,Y,Pass (Live),,Lamine Yamal,72,Raphinha,10,Valladolid,Left Foot
+12,0.17,La Liga,2024-08-31,Dani Olmo,Dani Olmo,0.25,,Matchweek 4,5-0,Y,Take-On,Take-On,Ferrán Torres,82,Dani Olmo,8,Valladolid,Right Foot
+13,0.25,La Liga,2024-08-31,Raphinha,Alejandro Balde,0.35,,Matchweek 4,6-0,N,Pass (Live),Pass (Live),Raphinha,85,Ferrán Torres,10,Valladolid,Right Foot
+14,0.53,La Liga,2024-09-15,,,0.64,,Matchweek 5,0-0,Y,,,,30,Lamine Yamal,11,Girona,Left Foot
+15,0.06,La Liga,2024-09-15,Raphinha,Alejandro Balde,0.72,,Matchweek 5,1-0,Y,Pass (Dead),Fouled,Robert Lewandowski,37,Lamine Yamal,18,Girona,Left Foot
+16,0.01,La Liga,2024-09-15,Jules Koundé,Pau Cubarsí,0.06,Volley,Matchweek 5,2-0,Y,Pass (Live),Pass (Live),Jules Koundé,47,Dani Olmo,12,Girona,Right Foot
+17,0.21,La Liga,2024-09-15,Marc Casado,Raphinha,0.53,,Matchweek 5,3-0,Y,Pass (Live),Pass (Live),Marc Casado,64,Pedri,5,Girona,Left Foot
+18,0.03,Champions Lg,2024-09-19,Marc Casado,Pau Cubarsí,0.26,,League phase,0-1,Y,Pass (Live),Pass (Live),Marc Casado,28,Lamine Yamal,22,Monaco,Left Foot
+19,0.31,La Liga,2024-09-22,Pablo Torre,Pedri,0.73,,Matchweek 6,0-0,Y,Pass (Live),Pass (Live),Pablo Torre,20,Robert Lewandowski,11,Villarreal,Right Foot
+20,0.94,La Liga,2024-09-22,Eric García,,0.99,,Matchweek 6,1-0,Y,Shot,,,35,Robert Lewandowski,5,Villarreal,Right Foot
+21,0.07,La Liga,2024-09-22,Pedri,Lamine Yamal,0.29,Deflected,Matchweek 6,2-1,Y,Pass (Live),Pass (Live),Pedri,58,Pablo Torre,22,Villarreal,Left Foot
+22,0.06,La Liga,2024-09-22,Pau Victor Delgado,Gerard Martín,0.18,Deflected,Matchweek 6,3-1,Y,Pass (Live),Pass (Live),Pau Victor Delgado,74,Raphinha,18,Villarreal,Left Foot
+23,0.57,La Liga,2024-09-22,Lamine Yamal,Eric García,0.48,,Matchweek 6,4-1,Y,Pass (Live),Pass (Live),Lamine Yamal,83,Raphinha,16,Villarreal,Left Foot
+24,0.36,La Liga,2024-09-25,Lamine Yamal,Eric García,0.9,Volley,Matchweek 7,0-0,Y,Pass (Live),Pass (Live),,19,Robert Lewandowski,4,Getafe,Right Foot
+25,0.04,La Liga,2024-09-28,,,0.06,,Matchweek 8,0-2,Y,,,Gerard Martín,53,Pau Victor Delgado,26,Osasuna,Right Foot
+26,0.05,La Liga,2024-09-28,Ferrán Torres,Marc Casado,0.5,,Matchweek 8,1-4,N,Pass (Live),Pass (Live),Ferrán Torres,89,Lamine Yamal,23,Osasuna,Left Foot
+27,0.93,Champions Lg,2024-10-01,Raphinha,,0.99,,League phase,0-0,Y,Shot,,Raphinha,8,Robert Lewandowski,3,Young Boys,Left Foot
+28,0.11,Champions Lg,2024-10-01,Pedri,,0.26,,League phase,1-0,Y*,Shot,,,34,Raphinha,7,Young Boys,Left Foot
+29,0.11,Champions Lg,2024-10-01,Pedri,Lamine Yamal,0.69,,League phase,2-0,Y,Pass (Dead),Fouled,Pedri,37,Iñigo Martínez,9,Young Boys,Head
+30,0.79,Champions Lg,2024-10-01,Iñigo Martínez,,0.99,,League phase,3-0,Y,Shot,,Iñigo Martínez,51,Robert Lewandowski,2,Young Boys,Head
+31,0.0,Champions Lg,2024-10-01,,,0.0,Own Goal,League phase,4-0,Y*,,,,81,Mohamed Aly Camara (OG),0,Young Boys,
+32,0.15,La Liga,2024-10-06,Raphinha,Lamine Yamal,0.55,Deflected,Matchweek 9,0-0,Y,Pass (Dead),Fouled,Raphinha,7,Robert Lewandowski,8,Alavés,Head
+33,0.81,La Liga,2024-10-06,Raphinha,Raphinha,0.89,,Matchweek 9,1-0,Y,Pass (Live),Take-On,Raphinha,22,Robert Lewandowski,8,Alavés,Right Foot
+34,0.35,La Liga,2024-10-06,Eric García,Marc Casado,0.83,,Matchweek 9,2-0,Y,Pass (Live),Pass (Live),Eric García,32,Robert Lewandowski,12,Alavés,Right Foot
+35,0.79,La Liga,2024-10-20,Raphinha,Lamine Yamal,0.89,,Matchweek 10,0-0,Y,Fouled,Pass (Live),,24,Robert Lewandowski,13,Sevilla,Right Foot
+36,0.11,La Liga,2024-10-20,Lamine Yamal,Robert Lewandowski,0.18,,Matchweek 10,1-0,Y,Pass (Live),Pass (Live),Lamine Yamal,28,Pedri,22,Sevilla,Right Foot
+37,0.57,La Liga,2024-10-20,Raphinha,,0.97,,Matchweek 10,2-0,Y,Shot,,Raphinha,39,Robert Lewandowski,9,Sevilla,Right Foot
+38,0.13,La Liga,2024-10-20,Pedri,Pablo Torre,0.82,Deflected,Matchweek 10,3-0,N,Pass (Live),Pass (Live),,82,Pablo Torre,13,Sevilla,Right Foot
+39,0.05,La Liga,2024-10-20,Pau Victor Delgado,Gavi,0.31,,Matchweek 10,4-1,N,Fouled,Pass (Live),,88,Pablo Torre,31,Sevilla,Right Foot
+40,0.78,Champions Lg,2024-10-23,Raphinha,Pedri,0.99,,League phase,0-0,Y*,Take-On,Pass (Live),Fermin López,1,Raphinha,8,Bayern Munich,Left Foot
+41,0.7,Champions Lg,2024-10-23,Pau Cubarsí,Iñigo Martínez,0.99,Deflected,League phase,1-1,Y,Pass (Live),Pass (Live),Fermin López,36,Robert Lewandowski,13,Bayern Munich,Right Foot
+42,0.03,Champions Lg,2024-10-23,Marc Casado,Pedri,0.28,,League phase,2-1,Y*,Pass (Live),Pass (Live),Marc Casado,45,Raphinha,17,Bayern Munich,Right Foot
+43,0.07,Champions Lg,2024-10-23,Lamine Yamal,Pedri,0.45,,League phase,3-1,Y*,Pass (Live),Pass (Live),Lamine Yamal,56,Raphinha,18,Bayern Munich,Left Foot
+44,0.25,La Liga,2024-10-26,Marc Casado,Iñigo Martínez,0.39,,Matchweek 11,0-0,Y,Pass (Live),Pass (Dead),Marc Casado,54,Robert Lewandowski,21,Real Madrid,Right Foot
+45,0.16,La Liga,2024-10-26,Alejandro Balde,Frenkie de Jong,0.85,,Matchweek 11,1-0,Y,Pass (Live),Pass (Live),Alejandro Balde,56,Robert Lewandowski,10,Real Madrid,Head
+46,0.17,La Liga,2024-10-26,Raphinha,,0.48,,Matchweek 11,2-0,Y,Pass (Live),,Raphinha,77,Lamine Yamal,12,Real Madrid,Right Foot
+47,0.59,La Liga,2024-10-26,Iñigo Martínez,Iñaki Peña,0.37,,Matchweek 11,3-0,Y*,Pass (Live),Pass (Live),Iñigo Martínez,84,Raphinha,14,Real Madrid,Right Foot
+48,0.51,La Liga,2024-11-03,Lamine Yamal,Marc Casado,0.62,,Matchweek 12,0-0,Y,Pass (Live),Pass (Live),Lamine Yamal,12,Dani Olmo,9,Espanyol,Right Foot
+49,0.55,La Liga,2024-11-03,Marc Casado,Iñigo Martínez,0.83,,Matchweek 12,1-0,Y*,Pass (Live),Pass (Live),Marc Casado,23,Raphinha,15,Espanyol,Left Foot
+50,0.1,La Liga,2024-11-03,Alejandro Balde,Raphinha,0.75,Deflected,Matchweek 12,2-0,Y,Pass (Live),Tackle,Alejandro Balde,31,Dani Olmo,22,Espanyol,Right Foot
+51,0.43,Champions Lg,2024-11-06,Raphinha,Robert Lewandowski,0.93,,League phase,0-0,Y,Pass (Dead),Fouled,Raphinha,13,Iñigo Martínez,4,Red Star,Head
+52,0.78,Champions Lg,2024-11-06,Raphinha,,0.98,,League phase,1-1,Y,Shot,,,43,Robert Lewandowski,4,Red Star,Left Foot
+53,0.91,Champions Lg,2024-11-06,Pedri,Jules Koundé,0.99,,League phase,2-1,Y,Pass (Live),Pass (Live),Jules Koundé,53,Robert Lewandowski,3,Red Star,Right Foot
+54,0.11,Champions Lg,2024-11-06,Jules Koundé,Lamine Yamal,0.48,,League phase,3-1,Y,Pass (Live),Pass (Live),Jules Koundé,55,Raphinha,22,Red Star,Left Foot
+55,0.13,Champions Lg,2024-11-06,Jules Koundé,Marc Casado,0.77,,League phase,4-1,N,Pass (Live),Pass (Live),Jules Koundé,76,Fermin López,12,Red Star,Right Foot
+56,0.49,La Liga,2024-11-23,Raphinha,Jules Koundé,0.32,,Matchweek 14,0-0,Y*,Take-On,Pass (Live),Jules Koundé,15,Raphinha,13,Celta Vigo,Left Foot
+57,0.38,La Liga,2024-11-23,Raphinha,,0.36,,Matchweek 14,1-0,Y,Pass (Live),,,61,Robert Lewandowski,12,Celta Vigo,Right Foot
+58,0.79,Champions Lg,2024-11-26,Robert Lewandowski,Pedri,0.79,,League phase,0-0,Y,Fouled,Pass (Live),,10,Robert Lewandowski,13,Brest,Right Foot
+59,0.31,Champions Lg,2024-11-26,Dani Olmo,Gerard Martín,0.29,,League phase,1-0,Y,Take-On,Pass (Live),Gerard Martín,66,Dani Olmo,5,Brest,Right Foot
+60,0.1,Champions Lg,2024-11-26,Alejandro Balde,Raphinha,0.68,,League phase,2-0,Y,Pass (Live),Pass (Live),Alejandro Balde,90,Robert Lewandowski,14,Brest,Right Foot
+61,0.05,La Liga,2024-11-30,Pedri,Frenkie de Jong,0.11,,Matchweek 15,0-1,Y*,Pass (Live),Pass (Live),Pedri,61,Raphinha,25,Las Palmas,Left Foot
+62,0.09,La Liga,2024-12-03,,,0.6,Deflected,Matchweek 19,0-0,Y,,,,12,Ferrán Torres,15,Mallorca,Right Foot
+63,0.79,La Liga,2024-12-03,Lamine Yamal,Dani Olmo,0.66,,Matchweek 19,1-1,Y*,Fouled,Pass (Live),,56,Raphinha,13,Mallorca,Left Foot
+64,0.56,La Liga,2024-12-03,Lamine Yamal,Jules Koundé,0.86,,Matchweek 19,2-1,Y*,Pass (Live),Pass (Live),Lamine Yamal,74,Raphinha,8,Mallorca,Left Foot
+65,0.22,La Liga,2024-12-03,Lamine Yamal,Lamine Yamal,0.54,,Matchweek 19,3-1,N,Pass (Live),Take-On,,79,Frenkie de Jong,12,Mallorca,Left Foot
+66,0.96,La Liga,2024-12-03,Frenkie de Jong,Frenkie de Jong,0.99,,Matchweek 19,4-1,N,Pass (Live),Take-On,Frenkie de Jong,84,Pau Victor Delgado,4,Mallorca,Left Foot
+67,0.82,La Liga,2024-12-07,Jules Koundé,Pedri,0.99,,Matchweek 16,0-0,Y,Pass (Live),Pass (Live),Jules Koundé,39,Robert Lewandowski,6,Betis,Left Foot
+68,0.58,La Liga,2024-12-07,Lamine Yamal,Lamine Yamal,0.64,,Matchweek 16,1-1,N,Pass (Live),Take-On,Lamine Yamal,82,Ferrán Torres,13,Betis,Right Foot
+69,0.34,Champions Lg,2024-12-11,Dani Olmo,Dani Olmo,0.48,,League phase,0-0,Y*,Pass (Live),Take-On,Dani Olmo,52,Raphinha,13,Dortmund,Left Foot
+70,0.64,Champions Lg,2024-12-11,Fermin López,,0.33,,League phase,1-1,N,Shot,,,75,Ferrán Torres,4,Dortmund,Left Foot
+71,0.17,Champions Lg,2024-12-11,Lamine Yamal,Pedri,0.42,,League phase,2-2,N,Pass (Live),Pass (Live),Lamine Yamal,85,Ferrán Torres,15,Dortmund,Right Foot
+72,0.11,La Liga,2024-12-21,Pedri,Alejandro Balde,0.58,Deflected,Matchweek 18,0-0,Y,Pass (Live),Pass (Live),Gavi,30,Pedri,13,Atlético Madrid,Right Foot
+73,0.0,Copa del Rey,2025-01-04,,,0.0,,Round of 32,,Y,,,Ronald Araújo,21,Eric García,0,Barbastro,
+74,0.0,Copa del Rey,2025-01-04,,,0.0,,Round of 32,,Y,,,Pablo Torre,31,Robert Lewandowski,0,Barbastro,
+75,0.0,Copa del Rey,2025-01-04,,,0.0,,Round of 32,,Y,,,Pablo Torre,47,Robert Lewandowski,0,Barbastro,
+76,0.0,Copa del Rey,2025-01-04,,,0.0,,Round of 32,,Y,,,,56,Pablo Torre,0,Barbastro,
+77,0.0,Supercopa de España,2025-01-08,,,0.0,,Semi-finals,,Y,,,Alejandro Balde,17,Gavi,0,Athletic Club,
+78,0.0,Supercopa de España,2025-01-08,,,0.0,,Semi-finals,,Y,,,Gavi,52,Lamine Yamal,0,Athletic Club,
+79,0.0,Supercopa de España,2025-01-12,,,0.0,,Final,,Y,,,Robert Lewandowski,22,Lamine Yamal,0,Real Madrid,
+80,0.0,Supercopa de España,2025-01-12,,,0.0,,Final,,Y,,,,36,Robert Lewandowski,0,Real Madrid,
+81,0.0,Supercopa de España,2025-01-12,,,0.0,,Final,,Y*,,,Jules Koundé,39,Raphinha,0,Real Madrid,
+82,0.0,Supercopa de España,2025-01-12,,,0.0,,Final,,Y,,,Raphinha,45,Alejandro Balde,0,Real Madrid,
+83,0.0,Supercopa de España,2025-01-12,,,0.0,,Final,,Y*,,,Marc Casado,48,Raphinha,0,Real Madrid,
+84,0.0,Copa del Rey,2025-01-15,,,0.0,,Round of 16,,Y,,,Dani Olmo,3,Gavi,0,Betis,
+85,0.0,Copa del Rey,2025-01-15,,,0.0,,Round of 16,,Y,,,Lamine Yamal,27,Jules Koundé,0,Betis,
+86,0.0,Copa del Rey,2025-01-15,,,0.0,,Round of 16,,Y,,,,58,Raphinha,0,Betis,
+87,0.0,Copa del Rey,2025-01-15,,,0.0,,Round of 16,,N,,,Dani Olmo,67,Ferrán Torres,0,Betis,
+88,0.0,Copa del Rey,2025-01-15,,,0.0,,Round of 16,,Y,,,Fermin López,75,Lamine Yamal,0,Betis,
+89,0.34,La Liga,2025-01-18,Jules Koundé,,0.85,,Matchweek 20,0-0,Y,Shot,,,9,Jules Koundé,3,Getafe,Left Foot
+90,0.79,Champions Lg,2025-01-21,Alejandro Balde,Pedri,0.59,,League phase,0-1,Y,Fouled,Pass (Live),,13,Robert Lewandowski,13,Benfica,Right Foot
+91,0.03,Champions Lg,2025-01-21,,,0.09,,League phase,1-3,Y,,,,64,Raphinha,29,Benfica,Head
+92,0.79,Champions Lg,2025-01-21,Lamine Yamal,Robert Lewandowski,0.6,,League phase,2-4,Y,Fouled,Pass (Live),,78,Robert Lewandowski,13,Benfica,Right Foot
+93,0.32,Champions Lg,2025-01-21,Pedri,Fermin López,0.73,,League phase,3-4,N,Pass (Live),Pass (Dead),Pedri,86,Eric García,6,Benfica,Head
+94,0.27,Champions Lg,2025-01-21,Ferrán Torres,,0.25,,League phase,4-4,Y,Pass (Live),,Ferrán Torres,90,Raphinha,13,Benfica,Left Foot
+95,0.35,La Liga,2025-01-26,Lamine Yamal,Fermin López,0.92,,Matchweek 21,0-0,Y*,Pass (Live),Pass (Live),Lamine Yamal,3,Frenkie de Jong,9,Valencia,Right Foot
+96,0.11,La Liga,2025-01-26,Alejandro Balde,Frenkie de Jong,0.76,Volley,Matchweek 21,1-0,Y,Pass (Live),Pass (Live),Alejandro Balde,8,Ferrán Torres,11,Valencia,Right Foot
+97,0.56,La Liga,2025-01-26,Raphinha,Fermin López,0.99,,Matchweek 21,2-0,Y,Take-On,Pass (Live),Fermin López,14,Raphinha,14,Valencia,Right Foot
+98,0.6,La Liga,2025-01-26,Pau Cubarsí,Alejandro Balde,0.79,,Matchweek 21,3-0,Y,Pass (Live),Pass (Live),Pau Cubarsí,24,Fermin López,16,Valencia,Right Foot
+99,0.82,La Liga,2025-01-26,Raphinha,,0.99,,Matchweek 21,4-0,Y,Shot,,,45,Fermin López,16,Valencia,Right Foot
+100,0.1,La Liga,2025-01-26,Fermin López,Frenkie de Jong,0.62,,Matchweek 21,5-1,N,Pass (Live),Pass (Live),Fermin López,66,Robert Lewandowski,13,Valencia,Right Foot
+101,0.0,La Liga,2025-01-26,,,0.0,Own Goal,Matchweek 21,6-1,Y,,,,75,César Tárrega (OG),0,Valencia,
+102,0.99,Champions Lg,2025-01-29,Lamine Yamal,Raphinha,1.0,,League phase,0-0,Y,Take-On,Pass (Live),Raphinha,47,Lamine Yamal,2,Atalanta,Left Foot
+103,0.23,Champions Lg,2025-01-29,Raphinha,Lamine Yamal,0.63,,League phase,1-1,Y*,Pass (Dead),Pass (Live),Raphinha,72,Ronald Araújo,5,Atalanta,Head
+104,0.41,La Liga,2025-02-02,Lamine Yamal,,0.8,,Matchweek 22,0-0,Y,Shot,,,61,Robert Lewandowski,4,Alavés,Left Foot
+105,0.0,Copa del Rey,2025-02-06,,,0.0,,Quarter-finals,,Y,,,Alejandro Balde,3,Ferrán Torres,0,Valencia,
+106,0.0,Copa del Rey,2025-02-06,,,0.0,,Quarter-finals,,Y,,,,17,Ferrán Torres,0,Valencia,
+107,0.0,Copa del Rey,2025-02-06,,,0.0,,Quarter-finals,,Y,,,Pedri,23,Fermin López,0,Valencia,
+108,0.0,Copa del Rey,2025-02-06,,,0.0,,Quarter-finals,,Y,,,Raphinha,30,Ferrán Torres,0,Valencia,
+109,0.0,Copa del Rey,2025-02-06,,,0.0,,Quarter-finals,,Y,,,Raphinha,59,Lamine Yamal,0,Valencia,
+110,0.64,La Liga,2025-02-09,Iñigo Martínez,Raphinha,0.49,Volley,Matchweek 23,0-0,Y,Pass (Live),Pass (Live),Iñigo Martínez,7,Robert Lewandowski,4,Sevilla,Left Foot
+111,0.4,La Liga,2025-02-09,Pedri,Alejandro Balde,0.74,,Matchweek 23,1-1,N,Pass (Live),Pass (Live),Pedri,46,Fermin López,6,Sevilla,Head
+112,0.06,La Liga,2025-02-09,Raphinha,Pau Cubarsí,0.49,,Matchweek 23,2-1,Y,Take-On,Pass (Live),Pau Cubarsí,55,Raphinha,24,Sevilla,Right Foot
+113,0.51,La Liga,2025-02-09,Dani Olmo,Lamine Yamal,0.94,,Matchweek 23,3-1,N,Fouled,Pass (Live),,89,Eric García,3,Sevilla,Head
+114,0.79,La Liga,2025-02-17,Iñigo Martínez,Alejandro Balde,0.79,,Matchweek 24,0-0,Y,Fouled,Pass (Live),,28,Robert Lewandowski,13,Rayo Vallecano,Right Foot
+115,0.44,La Liga,2025-02-22,Dani Olmo,Lamine Yamal,0.93,,Matchweek 25,0-0,N,Take-On,Pass (Live),Lamine Yamal,62,Dani Olmo,13,Las Palmas,Left Foot
+116,0.05,La Liga,2025-02-22,Raphinha,,0.2,,Matchweek 25,1-0,N,Pass (Live),,Raphinha,90,Ferrán Torres,10,Las Palmas,Left Foot
+117,0.0,Copa del Rey,2025-02-25,,,0.0,,Semi-finals,,Y,,,Jules Koundé,19,Pedri,0,Atlético Madrid,
+118,0.0,Copa del Rey,2025-02-25,,,0.0,,Semi-finals,,Y,,,Raphinha,21,Pau Cubarsí,0,Atlético Madrid,
+119,0.0,Copa del Rey,2025-02-25,,,0.0,,Semi-finals,,Y,,,Raphinha,41,Iñigo Martínez,0,Atlético Madrid,
+120,0.0,Copa del Rey,2025-02-25,,,0.0,,Semi-finals,,N,,,Lamine Yamal,74,Robert Lewandowski,0,Atlético Madrid,
+121,0.11,La Liga,2025-03-02,Dani Olmo,Lamine Yamal,0.57,,Matchweek 26,0-0,Y,Pass (Live),Pass (Live),Dani Olmo,25,Gerard Martín,10,Real Sociedad,Left Foot
+122,0.11,La Liga,2025-03-02,Dani Olmo,,0.77,Volley,Matchweek 26,1-0,Y,Shot,,Dani Olmo,29,Marc Casado,12,Real Sociedad,Left Foot
+123,0.38,La Liga,2025-03-02,Robert Lewandowski,,0.19,,Matchweek 26,2-0,Y*,Shot,,,56,Ronald Araújo,4,Real Sociedad,Head
+124,0.3,La Liga,2025-03-02,Ronald Araújo,,0.29,,Matchweek 26,3-0,Y,Shot,,Ronald Araújo,60,Robert Lewandowski,15,Real Sociedad,Right Foot
+125,0.03,Champions Lg,2025-03-05,,,0.36,Deflected,Round of 16,0-0,Y,,,,61,Raphinha,28,Benfica,Left Foot
+126,0.4,Champions Lg,2025-03-11,Lamine Yamal,,0.24,,Round of 16,0-0,Y,Shot,,Lamine Yamal,11,Raphinha,7,Benfica,Left Foot
+127,0.04,Champions Lg,2025-03-11,Lamine Yamal,Raphinha,0.5,,Round of 16,1-1,Y,Take-On,Pass (Dead),Raphinha,27,Lamine Yamal,22,Benfica,Left Foot
+128,0.1,Champions Lg,2025-03-11,Alejandro Balde,Alejandro Balde,0.26,,Round of 16,2-1,Y,Pass (Live),Take-On,Alejandro Balde,42,Raphinha,13,Benfica,Left Foot
+129,0.08,La Liga,2025-03-16,Iñigo Martínez,Iñigo Martínez,0.59,,Matchweek 28,0-2,Y,Pass (Live),Take-On,Iñigo Martínez,72,Robert Lewandowski,16,Atlético Madrid,Left Foot
+130,0.29,La Liga,2025-03-16,Raphinha,Jules Koundé,0.13,,Matchweek 28,1-2,N,Pass (Live),Pass (Live),Raphinha,78,Ferrán Torres,9,Atlético Madrid,Head
+131,0.02,La Liga,2025-03-16,Lamine Yamal,Pedri,0.12,Deflected,Matchweek 28,2-2,Y,Take-On,Pass (Live),Pedri,90,Lamine Yamal,24,Atlético Madrid,Left Foot
+132,0.09,La Liga,2025-03-16,,,0.31,,Matchweek 28,3-2,N,,,,90,Ferrán Torres,21,Atlético Madrid,Right Foot
+133,0.65,La Liga,2025-03-27,Alejandro Balde,Frenkie de Jong,0.5,,Matchweek 27,0-0,Y,Pass (Live),Pass (Live),Alejandro Balde,11,Ferrán Torres,4,Osasuna,Right Foot
+134,0.79,La Liga,2025-03-27,Dani Olmo,Pedri,0.72,,Matchweek 27,1-0,Y,Fouled,Pass (Live),,21,Dani Olmo,13,Osasuna,Right Foot
+135,0.22,La Liga,2025-03-27,Fermin López,Pablo Torre,0.43,,Matchweek 27,2-0,N,Pass (Live),Pass (Live),Fermin López,77,Robert Lewandowski,10,Osasuna,Head
+136,0.0,La Liga,2025-03-30,,,0.0,Own Goal,Matchweek 29,0-0,Y,,,,43,Ladislav Krejčí (OG),0,Girona,
+137,0.29,La Liga,2025-03-30,Fermin López,Gavi,0.6,Volley,Matchweek 29,1-1,Y,Pass (Live),Pass (Live),Fermin López,61,Robert Lewandowski,3,Girona,Left Foot
+138,0.21,La Liga,2025-03-30,Frenkie de Jong,Frenkie de Jong,0.78,,Matchweek 29,2-1,Y,Pass (Live),Take-On,Frenkie de Jong,77,Robert Lewandowski,12,Girona,Right Foot
+139,0.15,La Liga,2025-03-30,Gerard Martín,Frenkie de Jong,0.72,,Matchweek 29,3-1,N,Pass (Live),Pass (Live),Gerard Martín,86,Ferrán Torres,17,Girona,Left Foot
+140,0.0,Copa del Rey,2025-04-02,,,0.0,,Semi-finals,,Y,,,Lamine Yamal,27,Ferrán Torres,0,Atlético Madrid,
+141,0.31,La Liga,2025-04-05,Ferrán Torres,Lamine Yamal,0.77,,Matchweek 30,0-0,Y,Pass (Live),Pass (Live),Ferrán Torres,7,Gavi,11,Betis,Right Foot
+142,0.94,Champions Lg,2025-04-09,Pau Cubarsí,,1.0,,Quarter-finals,0-0,Y,Shot,,Pau Cubarsí,25,Raphinha,1,Dortmund,Right Foot
+143,0.64,Champions Lg,2025-04-09,Raphinha,Lamine Yamal,0.99,,Quarter-finals,1-0,Y,Pass (Live),Pass (Live),Raphinha,48,Robert Lewandowski,2,Dortmund,Head
+144,0.19,Champions Lg,2025-04-09,Fermin López,Lamine Yamal,0.1,,Quarter-finals,2-0,Y,Pass (Live),Pass (Live),Fermin López,66,Robert Lewandowski,14,Dortmund,Right Foot
+145,0.35,Champions Lg,2025-04-09,Raphinha,,0.73,,Quarter-finals,3-0,Y,Pass (Live),,Raphinha,77,Lamine Yamal,15,Dortmund,Left Foot
+146,0.0,La Liga,2025-04-12,,,0.0,Own Goal,Matchweek 31,0-0,Y,,,,48,Jorge Sáenz (OG),0,Leganés,
+147,0.0,Champions Lg,2025-04-15,,,0.0,Own Goal,Quarter-finals,0-2,Y,,,,54,Ramy Bensebaini (OG),0,Dortmund,
+148,0.05,La Liga,2025-04-19,Ferrán Torres,Iñigo Martínez,0.18,,Matchweek 32,0-0,Y,Take-On,Pass (Live),Iñigo Martínez,12,Ferrán Torres,22,Celta Vigo,Right Foot
+149,0.54,La Liga,2025-04-19,Raphinha,Robert Lewandowski,0.6,,Matchweek 32,1-3,N,Pass (Live),Pass (Live),Raphinha,64,Dani Olmo,12,Celta Vigo,Left Foot
+150,0.54,La Liga,2025-04-19,Lamine Yamal,Jules Koundé,0.64,,Matchweek 32,2-3,Y,Pass (Live),Pass (Live),Lamine Yamal,68,Raphinha,5,Celta Vigo,Head
+151,0.79,La Liga,2025-04-19,Dani Olmo,Pedri,0.85,,Matchweek 32,3-3,Y,Fouled,Pass (Live),,90,Raphinha,13,Celta Vigo,Left Foot
+152,0.08,La Liga,2025-04-22,Eric García,Gavi,0.53,,Matchweek 33,0-0,Y,Pass (Live),Pass (Live),Eric García,46,Dani Olmo,13,Mallorca,Left Foot
+153,0.0,Copa del Rey,2025-04-26,,,0.0,,Final,,Y,,,Lamine Yamal,28,Pedri,0,Real Madrid,
+154,0.0,Copa del Rey,2025-04-26,,,0.0,,Final,,Y,,,Lamine Yamal,84,Ferrán Torres,0,Real Madrid,
+155,0.0,Copa del Rey,2025-04-26,,,0.0,,Final,,Y,,,,116,Jules Koundé,0,Real Madrid,
+156,0.04,Champions Lg,2025-04-30,Frenkie de Jong,Iñigo Martínez,0.74,,Semi-finals,0-2,Y,Pass (Live),Pass (Live),,24,Lamine Yamal,16,Inter,Left Foot
+157,0.56,Champions Lg,2025-04-30,Raphinha,Pedri,0.87,,Semi-finals,1-2,Y,Pass (Live),Pass (Live),Raphinha,38,Ferrán Torres,5,Inter,Right Foot
+158,0.0,Champions Lg,2025-04-30,,,0.0,Own Goal,Semi-finals,2-3,Y,,,,65,Yann Sommer (OG),0,Inter,
+159,0.22,La Liga,2025-05-03,Héctor Fort,Frenkie de Jong,0.71,,Matchweek 34,0-1,N,Pass (Live),Pass (Live),,54,Raphinha,17,Valladolid,Right Foot
+160,0.21,La Liga,2025-05-03,Gerard Martín,Gavi,0.8,,Matchweek 34,1-1,Y,Pass (Live),Pass (Live),Gerard Martín,60,Fermin López,15,Valladolid,Left Foot
+161,0.12,Champions Lg,2025-05-06,Gerard Martín,Pedri,0.64,Volley,Semi-finals,0-2,Y,Pass (Live),Pass (Live),Gerard Martín,54,Eric García,12,Inter,Right Foot
+162,0.48,Champions Lg,2025-05-06,Gerard Martín,Frenkie de Jong,0.97,,Semi-finals,1-2,Y,Pass (Live),Pass (Live),Gerard Martín,60,Dani Olmo,5,Inter,Head
+163,0.13,Champions Lg,2025-05-06,Raphinha,,0.85,Volley,Semi-finals,2-2,Y,Shot,,,87,Raphinha,11,Inter,Right Foot
