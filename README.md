@@ -1,10 +1,10 @@
-# FC Barcelona - Super Sub Detector 🚀
+# FC Barcelona - Super Sub Recommender 🚀
 
 ## What's This All About?
 
 Ever yelled at the TV wondering why *that* player is coming on as a sub? Or maybe you've got a hunch about who Barça's real game-changers are from the bench? This project tries to answer those questions with data!
 
-We've built a **"Super Sub Detector"** that analyzes FC Barcelona player statistics to:
+We've built a **"Super Sub Recommender"** that analyzes FC Barcelona player statistics to:
 
 1.  Identify players who make the most significant impact when they come on as substitutes.
 2.  Calculate a unique **"Super Sub Impact Score"** to rank these players.
@@ -31,7 +31,7 @@ It's a fun dive into football analytics, trying to quantify that "spark" a subst
 *   **NumPy:** For some number crunching.
 *   **Scikit-learn:** For `MinMaxScaler` to get features on the same scale.
 *   **Matplotlib & Seaborn:** For making those eye-catching charts!
-*   **Jupyter Notebook:** Where all the magic happens.
+*   **Deepnote Notebook:** 
 
 ## How to Run It Yourself
 
